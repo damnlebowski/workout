@@ -1,1 +1,2 @@
 some edit from master
+some msg from subbranch

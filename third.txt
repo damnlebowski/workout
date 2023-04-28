@@ -5,3 +5,6 @@ some msg from subbranch
 hello this is new message from cloned project
 
 msg show for pull
+
+
+cloned editing branch
